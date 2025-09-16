@@ -1,0 +1,284 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+	<title>Xistemas Tecnologia da Informação</title>
+	<meta name="description"
+		content="A Xistemas presta serviços de gestão de projetos, consultoria em gestão de riscos, consultoria para a lei geral de proteção de dados, consultoria em sistemas hoteleiros, desenvolve e implanta sistemas para academias com controle de acesso." />
+	<meta name="keywords"
+		content="aplicativos, IA, inteligência artificial, powerbi, bi, xistemas, xisgym, gestão de projetos, gestão de riscos, lgpd, academias, academia, natação, musculação, crossfit, pilates, catraca, biometria, controle de acesso, lei geral de proteção de dados, unique, bauru, consultoria, ti, tecnologia da informação, sistema hoteleiro, hotelaria, control id, inovação, automação, sat, impressora, impressoras, tectoy" />
+	<meta name="robots" content="">
+	<meta name="revisit-after" content="1 day">
+	<meta name="language" content="Portuguese">
+	<meta name="generator" content="N/A">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<meta property="og:title" content="Xistemas Tecnologia da Informação" />
+	<meta property="og:url" content="http://www.xistemas.com.br" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Xistemas">
+	<meta property="og:description" content="Desenvolvimento de Sistemas" />
+	<meta property="og:image" itemprop="image" content="http://xistemas.com.br/images/Xistemas2025_300.png">
+
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
+	</noscript>
+</head>
+
+<body class="is-preload">
+
+	<!-- Sidebar -->
+	<section id="sidebar">
+		<div class="inner">
+			<img src="images/Xistemas2025_300.png">
+			<nav>
+				<ul>
+					<li><a href="#intro">Bem-vindo</a></li>
+					<li><a href="#one">Quem somos</a></li>
+					<li><a href="#two">O que fazemos</a></li>
+					<li><a href="#three">Entre em contato</a></li>
+				</ul>
+			</nav>
+		</div>
+	</section>
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Intro -->
+		<section id="intro" class="wrapper style1 fullscreen fade-up">
+			<div class="inner">
+				<h1>Xistemas - 2025: Ano 10!</h1>
+				<p>Tecnologia da Informação Humanizada, a solução para seu negócio.</p>
+				<ul class="actions">
+					<li><a href="#one" class="button scrolly">Saiba mais</a></li>
+				</ul>
+			</div>
+		</section>
+
+		<!-- One -->
+		<section id="one" class="wrapper style2 spotlights">
+			<section class>
+				<a href="#" class="image" style="background-image: url('images/img01_2025.png'); background-position: 50% 55%;">
+					<img src="images/img01_2025.png" alt="" data-position="50% 55%" style="display: none;">
+				</a>
+				<div class="content">
+					<div class="inner">
+						<h2>Quem Somos</h2>
+						<p>
+							A <strong>Xistemas</strong> é uma jovem empresa de TI,
+							que tem em seu DNA a <b>experiência de mais de 30 anos</b> de seu fundador como gestor de TI e projetos,
+							desenvolvedor de soluções em softwares e automações comerciais, além da vivência acadêmica
+							formando novos talentos em TI & Computação.
+						</p>
+						<p>
+							Nossa principal característica é <strong>desenvolver soluções</strong> pensando em resolver as
+							<b>dores</b> da sua empresa,
+							com <i>criatividade, usabilidade, alta performance e resultados</i>.
+						</p>
+						<p>
+							Somos incentivadores da TI Humanizada.
+						</p>
+
+					</div>
+				</div>
+			</section>
+			<section>
+
+				<a href="#" class="image" style="background-image: url('images/img02.png'); background-position: 50% 50%;">
+					<img src="images/img02.png" alt="" data-position="50% 50%" style="display: none;">
+				</a>
+				<div class="content">
+					<div class="inner">
+						<h2>A TI Humanizada</h2>
+						<p>
+							Nós da <strong>XISTEMAS</strong> temos certeza que a Tecnologia da Informação
+							é a solução ideal para agilizar a <b>gestão do seu negócio</b>.
+						</p>
+						<p>
+							Contudo, acreditamos que somente o <strong>respeito</strong> e entendimento das <strong>Relações
+								Humanas</strong>
+							é que farão de sua empresa um negócio de <b>sucesso</b>.
+						</p>
+						<p>
+							De nada adianta a tecnologia se ela <b>não descomplica</b> o dia-a-dia das empresas:
+							chega de complicações, <i>interfaces</i> nada amigáveis, telas poluídas e erros constantes.
+						</p>
+						<p>
+
+							<i>CONTE CONOSCO NESTA JORNADA!</i>
+						</p>
+						<ul class="actions">
+							<li><a href="#two" class="button">O que fazemos</a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+		</section>
+
+		<!-- Two -->
+		<section id="two" class="wrapper style3 fade-up">
+			<div class="inner">
+				<h2>O que fazemos</h2>
+				<p>
+					Buscamos a excelência no desenvolvimento de soluções de TI para nossos clientes.
+				</p>
+				<div class="features">
+					<section>
+						<span class="icon solid major fa-desktop"></span>
+						<h3>XisGYM - Sistema e App</h3>
+						<p>Solução completa para Academias de Musculação, Natação, Ginástica, Dança, CrossFit, Estúdio de Pilates &
+							Congêneres.</p>
+						<p>Controle de Alunos, Recebimentos, Mapa de Horários e Vagas, Fichas de treinamento por Whatsapp ou
+							impressão, Módulo Business Intelligence,
+							Módulo CRM/Whatsapp e diversos relatórios gerenciais.</p>
+						<p>Reduza a inadimplência e fraudes com o Controle de Acesso: Catraca por biometria e carteirinhas,
+							exibição de fotos, verificação automática de vencimentos e exames.</p>
+					</section>
+					<section>
+						<span class="icon solid major fa-home"></span>
+						<h3>ERP e App para Hotelaria</h3>
+						<p>Solução completa para Hotéis & Similares.</p>
+						<p>Tenha tudo ao alcance de um clique: Hóspedes, Reservas, Check-In e Check-Out, Mapa de Ocupação, Lazer &
+							Eventos, Cardápios,
+							Integração Cielo (link de cobrança), Integração com Sistema Nacional de Registro de Hóspedes - SNRHos,
+							Governança,
+							Manutenções, Cotação/Orçamentos/Compras, Estoque geral e setores, Requisições internas, Portaria,
+							Financeiro e etc...
+						</p>
+						<p>
+							App para atendentes e garçons realizarem os pedidos de consumo dos hóspedes.
+							Os hóspedes podem instalar aplicativo de autoatendimento.
+						</p>
+					</section>
+					<section>
+						<span class="icon solid major fa-robot"></span>
+						<h3>IA - inteligência artificial</h3>
+						<p>A IA é realidade nas empresas, se a sua ainda não utiliza ou utiliza mal, conte conosco.
+							Automações de processos, atendimento inteligente ao cliente, análise preditiva de dados e
+							suporte à tomada de decisões são apenas algumas das aplicações que desenvolvemos para impulsionar
+							resultados.
+							Transformamos a inteligência artificial em soluções práticas e acessíveis,
+							ajudando sua empresa a ganhar eficiência, reduzir custos e inovar de forma estratégica.
+						</p>
+					</section>
+					<section>
+						<span class="icon solid major fa-chart-line"></span>
+						<h3>Business Intelligence</h3>
+						<p>Transforme dados em decisões estratégicas com o poder do Business Intelligence.
+							Utilizando ferramentas como o Power BI, ajudamos sua empresa a criar dashboards interativos,
+							analisar tendências e identificar oportunidades em tempo real.
+							Mais clareza, mais agilidade e resultados orientados por dados.</p>
+					</section>
+					<section>
+						<span class="icon solid major fa-mobile-alt"></span>
+						<h3>Aplicativos sob medida</h3>
+						<p>Desenvolvemos aplicativos (Android / IOS) conforme a necessidade de sua empresa, além de sistema Backend
+							(API RestFul) e FrontEnd (Site Web).</p>
+					</section>
+
+					<section>
+						<span class="icon solid major fa-clipboard"></span>
+						<h3>Consultoria & Serviços</h3>
+						<p>- Gestão de Projetos de TI;<br>
+							- Gestão de Riscos de TI;<br>
+							- Auditoria e Levantamento de Requisitos, Melhorias e Erros em sistemas legados;<br>
+							- LGPD;<br>
+							- Marketing Digital: geração de conteúdo e presença nas redes sociais;<br>
+							- Mentoria para Startups & Gestão da Inovação.
+						</p>
+					</section>
+					<section>
+						<span class="icon solid major fa-network-wired"></span>
+						<h3>Parcerias</h3>
+						<p>Garanta toda tranquilidade em infra, redes, hardware e backups através das parcerias firmadas
+							entre a Xistemas e as melhores empresas de infraestrutura, manutenção e suporte do mercado.
+						</p>
+					</section>
+					<section>
+						<span class="icon major fa-keyboard"></span>
+						<h3>Equipamentos para automação e acesso</h3>
+						<p>Equipamentos das melhores marcas, adquira em condições especiais: Catracas, SAT, Impressoras, Leitores
+							Biométricos,
+							Leitores Qr-Code, Mini-CPUs, etc.
+						</p>
+					</section>
+				</div>
+				<ul class="actions">
+					<li><a href="#" class="button">Topo</a></li>
+				</ul>
+			</div>
+		</section>
+
+		<!-- Three -->
+		<section id="three" class="wrapper style1 fade-up">
+			<div class="inner">
+				<h2>Entre em Contato</h2>
+				<p>Estamos prontos para lhe atender e colocar sua empresa em um novo patamar, basta clicar nos contatos abaixo.
+				</p>
+				<div class="split style1">
+
+					<ul class="contact">
+						<li>
+							<h3>Email</h3>
+							<a href="mailto:contato@xistemas.com.br" class="icon fa-envelope" target="_blank">
+								contato@xistemas.com.br</a>
+						</li>
+						<li>
+							<h3>WhatsApp</h3>
+							<span>
+								<a href="https://api.whatsapp.com/send?phone=551432063688" class="icon brands fa-whatsapp"
+									target="_blank">
+									(14) 3206-3688</a>
+							</span>
+						</li>
+						<li>
+							<h3>Mídias Sociais</h3>
+							<ul class="icons">
+								<li><a href="https://www.facebook.com/Xistemas/" class="icon brands fa-facebook-f" target="_blank"><span
+											class="label">Facebook</span></a></li>
+								<li><a href="https://www.instagram.com/xistemas/" class="icon brands fa-instagram" target="_blank"><span
+											class="label">Instagram</span></a></li>
+								<li><a href="https://www.linkedin.com/company/42462179" class="icon brands fa-linkedin-in"
+										target="_blank"><span class="label">LinkedIn</span></a></li>
+							</ul>
+						</li>
+					</ul>
+		</section>
+	</div>
+	</div>
+	</section>
+
+	</div>
+
+	<!-- Footer -->
+	<footer id="footer" class="wrapper style1-alt">
+		<div class="inner">
+			<ul class="menu">
+				<li>&copy; by Xistemas 2021. All rights reserved.</li>
+				<li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
+			</ul>
+		</div>
+	</footer>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
